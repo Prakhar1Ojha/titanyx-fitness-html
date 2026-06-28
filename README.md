@@ -1,12 +1,12 @@
 # 🏋️ Titanyx Fitness Gym
 
-A complete, multi-section HTML5 website for a fictional premium fitness center — built as a pure HTML practice project (no CSS framework, no JavaScript yet).
+A complete, multi-section HTML5 website for a fictional premium fitness center — built as a pure HTML + CSS framework + JavaScriptpractice project.
 
 ---
 
 ## 📖 Overview
 
-Titanyx Fitness Gym is a static single-page website that simulates the full online presence of a commercial gym. It covers everything a real gym site would need: membership info, trainers, schedules, nutrition plans, forms, and contact details — all built using semantic HTML5.
+Titanyx Fitness Gym is a static single-page website that simulates the full online presence of a commercial gym. It covers everything a real gym site would need: membership info, trainers, schedules, nutrition plans, forms, and contact details — all built using semantic HTML5,CSS framework and JavaScript.
 
 This project was created to practice structuring a large, realistic website using proper HTML5 elements instead of relying on generic `<div>`s.
 
@@ -36,7 +36,7 @@ This project was created to practice structuring a large, realistic website usin
 
 ## 🛠 Technologies Used
 
-- **HTML5** only — no CSS file, no JavaScript yet (planned for future updates)
+- **HTML5** - CSS file - JavaScript (planned for future updates)
 
 ---
 
@@ -45,19 +45,17 @@ This project was created to practice structuring a large, realistic website usin
 **Current:**
 ```
 TFGym.html
+main.js
+style.css
 ```
 
 **Planned (once CSS/JS are added):**
 ```
 Titanyx-Fitness/
-├── index.html
+├── TFGym.html
 ├── README.md
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-└── assets/
+├── style.css
+├── main.js
 ```
 
 ---
@@ -68,16 +66,10 @@ Titanyx-Fitness/
 2. Open the folder in VS Code (or any editor).
 3. Open `TFGym.html` directly in your browser, or use the **Live Server** extension for auto-reload.
 
-No build steps, no dependencies — it's plain HTML.
+No build steps, no dependencies .
 
 ---
-
-## 📸 Screenshots
-
-_Add screenshots here once available (homepage, membership table, contact form, etc.)_
-
----
-
+ 
 ## 🎯 What I Practiced
 
 - Semantic HTML5 (`main`, `section`, `article`, `nav`, `figure`, `details`, `address`)
@@ -85,18 +77,40 @@ _Add screenshots here once available (homepage, membership table, contact form, 
 - Forms: text/email/tel/number/radio inputs, `fieldset`, `legend`, `select`, `textarea`
 - Internal page navigation with anchor links
 - Basic accessibility (`alt`, `label for`) and SEO metadata
+  
+CSS Practice
+✅ CSS Variables (:root)
+✅ Flexbox
+✅ CSS Grid
+✅ Responsive Design (media queries)
+✅ Transitions & Hover Effects
+✅ Keyframe Animations
+✅ Pseudo-elements (::before, ::after)
+✅ Positioning (relative, absolute, sticky, fixed)
+✅ Glassmorphism / Gradient backgrounds
+✅ Custom Scrollbar
+✅ CSS Organization (split into multiple files)
 
+JavaScript Practice
+✅ DOM Selection & Manipulation
+✅ Event Listeners
+✅ Form Validation
+✅ Class Toggling (classList)
+✅ Scroll Events (sticky navbar, active links)
+✅ Dynamic Content Creation (createElement)
+✅ Toast Notifications
+✅ Local Storage (save theme, newsletter, BMI history)
+✅ Fetch API (load trainers/testimonials from JSON)
+✅ Async/Await
+✅ ES6 Modules (split JS into files)
+✅ Debouncing & Throttling (for scroll events)
 ---
 
 ## 🔮 Known Issues / Next Steps
 
-- [ ] Add external `style.css` (currently styled with inline `style=""` attributes)
 - [ ] Fix unmatched `</header>` closing tag (no opening `<header>` present)
-- [ ] Replace deprecated table attributes (`border`, `cellpadding`, `cellspacing`) with CSS
 - [ ] Add `id="home"` so the "Home" nav link actually scrolls somewhere
-- [ ] Add `rel="noopener noreferrer"` to social links using `target="_blank"`
-- [ ] Connect BMI calculator and forms with JavaScript
-- [ ] Add responsive layout with CSS media queries
+- [ ] Add `rel="noopener noreferrer"` to social links using `target="_blank"
 - [ ] Add favicon
 
 ---
