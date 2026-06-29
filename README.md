@@ -1,6 +1,6 @@
 # 🏋️ Titanyx Fitness Gym
 
-A complete, multi-section HTML5 website for a fictional premium fitness center — built as a pure HTML + CSS framework + JavaScriptpractice project.
+A complete, multi-section HTML5 website for a fictional premium fitness center — built as a pure HTML + CSS framework + JavaScript practice project.
 
 ---
 
@@ -40,16 +40,9 @@ This project was created to practice structuring a large, realistic website usin
 
 ---
 
-## 📂 Current & Planned Folder Structure
+## 📂 Current Folder Structure
 
 **Current:**
-```
-TFGym.html
-main.js
-style.css
-```
-
-**Planned (once CSS/JS are added):**
 ```
 Titanyx-Fitness/
 ├── TFGym.html
