@@ -63,40 +63,74 @@ No build steps, no dependencies .
 
 ---
  
-## 🎯 What I Practiced
+## 💻 Frontend Development Skills I Practiced:
 
-- Semantic HTML5 (`main`, `section`, `article`, `nav`, `figure`, `details`, `address`)
-- Multi-table layouts with `thead`/`tbody`/`caption`
-- Forms: text/email/tel/number/radio inputs, `fieldset`, `legend`, `select`, `textarea`
-- Internal page navigation with anchor links
-- Basic accessibility (`alt`, `label for`) and SEO metadata
-  
-CSS Practice
-✅ CSS Variables (:root)
-✅ Flexbox
-✅ CSS Grid
-✅ Responsive Design (media queries)
-✅ Transitions & Hover Effects
-✅ Keyframe Animations
-✅ Pseudo-elements (::before, ::after)
-✅ Positioning (relative, absolute, sticky, fixed)
-✅ Glassmorphism / Gradient backgrounds
-✅ Custom Scrollbar
-✅ CSS Organization (split into multiple files)
+A summary of the technologies, concepts, and frontend development practices I have learned and applied through my projects.
 
-JavaScript Practice
-✅ DOM Selection & Manipulation
-✅ Event Listeners
-✅ Form Validation
-✅ Class Toggling (classList)
-✅ Scroll Events (sticky navbar, active links)
-✅ Dynamic Content Creation (createElement)
-✅ Toast Notifications
-✅ Local Storage (save theme, newsletter, BMI history)
-✅ Fetch API (load trainers/testimonials from JSON)
-✅ Async/Await
-✅ ES6 Modules (split JS into files)
-✅ Debouncing & Throttling (for scroll events)
+## 🌐 HTML5
+
+* Semantic HTML5 (`main`, `section`, `article`, `nav`, `figure`, `details`, `address`)
+* Forms (`input`, `textarea`, `select`, `fieldset`, `legend`)
+* Tables (`thead`, `tbody`, `caption`)
+* Internal Navigation (Anchor Links)
+* Accessibility Basics (`alt`, `label`, semantic structure)
+* SEO Fundamentals (Meta Tags)
+
+## 🎨 CSS3
+
+* CSS Variables (`:root`)
+* Flexbox
+* CSS Grid
+* Responsive Design (Media Queries)
+* Positioning (`relative`, `absolute`, `fixed`, `sticky`)
+* Transitions & Hover Effects
+* Keyframe Animations
+* Pseudo-elements (`::before`, `::after`)
+* Glassmorphism UI
+* Gradient Backgrounds
+* Custom Scrollbars
+* Organized & Modular Stylesheets
+
+## ⚡ JavaScript (ES6+)
+
+* DOM Selection & Manipulation
+* Event Listeners
+* Form Validation
+* Class Manipulation (`classList`)
+* Sticky Navigation & Scroll Events
+* Dynamic Content Creation (`createElement`)
+* Toast Notifications
+* Local Storage Integration
+* Fetch API
+* Async / Await
+* ES6 Modules
+* Debouncing & Throttling
+
+## 🛠️ Projects I Can Build
+
+* Responsive Landing Pages
+* Personal Portfolio Websites
+* Gym & Fitness Websites
+* Business Websites
+* Restaurant Websites
+* Interactive User Interfaces
+* API-Based Frontend Applications
+* Multi-Page Responsive Websites
+
+## 📚 Currently Learning
+
+* Advanced JavaScript
+* React.js
+* TypeScript
+* Modern Frontend Development
+* Backend Basics (Node.js, Express & MongoDB)
+
+## 🚀 Goals
+
+* Build scalable, responsive, and accessible web applications.
+* Write clean, maintainable, and reusable code.
+* Continuously improve through real-world projects and open-source contributions.
+
 ---
 
 ## 🔮 Known Issues / Next Steps
